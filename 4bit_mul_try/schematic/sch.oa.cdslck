@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      VLSI_63
+HostName                       serveric4
+ProcessIdentifier              8009
+ProcessCreationTime_UTC        1622064285
+ProcessCreationTime_Readable   Thu May 27 05:24:45 2021 CST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/SME_VLSI/VLSI_63/Desktop/306cadence/306Lib/4bit_mul_try/schematic/sch.oa.cdslck
+TimeEditLocked                 Thu May 27 14:22:20 2021 CST
